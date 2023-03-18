@@ -1,6 +1,6 @@
 const hello = () => {
   // eslint-disable-next-line quotes, semi
-  console.log("Hello Node.js");
+  console.log("Hello GitHub!");
   // eslint-disable-next-line semi
 };
 
